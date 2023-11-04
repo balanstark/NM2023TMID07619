@@ -9,4 +9,4 @@ P.ESWAR NM_ID :E484E111C853903B58842DE280E1A503
 R.ADITHYA NM_ID :E557880AAD444B3BFA748617BE2E544C
 
 
-project video demo link:https://youtu.be/kQwbZdgRf5c?si=Gc3unJtMnbngDNwN
+project video demo link:https://drive.google.com/file/d/15S4TyFlfxgEScmK-nxaMgAP7KXW2wioN/view?usp=drivesdk
