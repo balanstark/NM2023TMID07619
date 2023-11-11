@@ -1,4 +1,4 @@
- Online Voting using Blockchain 
+ Online Voting system using Blockchain 
 
 Work- Flow
 1. Register the Candidate with his details
